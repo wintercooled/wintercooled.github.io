@@ -1,2 +1,3 @@
-remote_theme: jekyll/minima
+#remote_theme: jekyll/minima
 #theme: jekyll-theme-cayman
+theme: minima
