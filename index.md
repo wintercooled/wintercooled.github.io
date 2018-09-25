@@ -10,15 +10,3 @@
 
 This isn't.
 
-This is done by using 3 hyphens
----
-
-This isn't.
-
-This is done using 3 asterisks
-***
-
-And this 3 underscores
-___
-
-All the same.
