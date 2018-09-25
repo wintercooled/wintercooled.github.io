@@ -1,4 +1,4 @@
-## Example page
+## Example page.
 
 | Table         | Example       | Here  |
 | ------------- |:-------------:| -----:|
