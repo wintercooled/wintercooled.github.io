@@ -12,11 +12,11 @@ This isn't.
 
 # Horizontal rule after...
 * * *
-  
-  
+<br/>
+<br/>  
 should be two lines above and two below but likely not - used 2 spaces for lines
-  
-  
+<br/>
+<br/>
 # Large
 
 Not sure
