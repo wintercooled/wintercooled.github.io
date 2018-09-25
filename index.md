@@ -12,11 +12,11 @@ This isn't.
 
 # Horizontal rule after...
 * * *
- 
- 
-should be two lines above and two below but likely not - used spaces for lines
- 
- 
+  
+  
+should be two lines above and two below but likely not - used 2 spaces for lines
+  
+  
 # Large
 
 Not sure
