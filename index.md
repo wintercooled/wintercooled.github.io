@@ -10,14 +10,14 @@
 
 This isn't.
 
-Horizontal rule after...
+# Horizontal rule after...
 * * *
 
-# Large?
+# Large
 
 Not sure
 
-### Small?
+### Small
 
 Not sure
 
