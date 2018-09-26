@@ -1,5 +1,5 @@
 ## Example page
-![wintercooled]("/images/wintercooled.png")
+![wintercooled]("{{ site.baseurl }}/images/wintercooled.png")
 
 
 
