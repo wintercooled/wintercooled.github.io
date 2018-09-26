@@ -1,7 +1,7 @@
 ## Example page
-Image...
+Image..
 
-![wintercooled]("{{ site.baseurl }}/images/wintercooled.png")
+![wintercooled]({{ site.url }}/images/wintercooled.png)
 
 
 
