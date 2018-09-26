@@ -1,3 +1,8 @@
+---
+layout: home
+title: wintercooled
+---
+
 ## Example page
 
 ![wintercooled]({{ site.url }}/images/wintercooled.png)
