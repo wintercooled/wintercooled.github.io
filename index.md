@@ -1,4 +1,6 @@
 ## Example page
+Image...
+
 ![wintercooled]("{{ site.baseurl }}/images/wintercooled.png")
 
 
