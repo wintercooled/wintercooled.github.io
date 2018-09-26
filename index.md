@@ -1,4 +1,13 @@
 ## Example page
+![wintercooled]("/images/wintercooled.png")
+
+
+
+## Example markdown...
+* * *
+<br/>
+<br/>
+<br/>
 
 | Table         | Example       | Here  |
 | ------------- |:-------------:| -----:|
