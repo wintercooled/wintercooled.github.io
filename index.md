@@ -2,16 +2,14 @@
 layout: home
 title: wintercooled
 ---
-
+# Example page
 ## Example page
+### Example page
 
 ![wintercooled]({{ site.url }}/images/wintercooled.png)
 
-
-
 ## Example markdown...
 * * *
-<br/>
 <br/>
 <br/>
 
@@ -25,68 +23,8 @@ title: wintercooled
 
 This isn't.
 
-# Horizontal rule after...
-* * *
-
-<br/>
-<br/>  
-Used br there to get line breaks
+Use br for multiple consecutive line breaks:
 <br/>
 <br/>
-
-# Large
-
-Not sure
-
-### Small
-
-Not sure
-
-Page run on check...
-
-Page run on check...
-
-Page run on check...
-
-Page run on check...
-
-Page run on check...
-Page run on check...
-
-Page run on check...
-
-Page run on check...
-
-Page run on check...
-
-Page run on check...
-
-Page run on check...
-
-Page run on check...
-
-Page run on check...
-
-Page run on check...
-
-Page run on check...
-Page run on check...
-
-Page run on check...
-
-Page run on check...
-
-Page run on check...
-
-Page run on check...
-Page run on check...
-
-Page run on check...
-
-Page run on check...
-
-Page run on check...
-
-Page run on check...
-
+<br/>
 End

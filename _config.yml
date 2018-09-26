@@ -1,37 +1,27 @@
-#remote_theme: jekyll/minima
 theme: minima
-url: "https://wintercooled.github.io" 
+#remote_theme: jekyll/minima
+
 header_pages:
   - elements-code-tutorial/part-one.md
 
+# Build settings
+markdown: kramdown
 
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: wintercooled.github.io
+#    Used to personalize the site. If you look in the HTML files,
+#    you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+#    You can create any custom variable you like, and they will be accessible
+#    in the templates via {{ site.myvariable }} for example.
+url: "https://wintercooled.github.io" 
+baseurl: "" # the subpath of your site if neded, e.g. /sitecontent
+
 email: wintercooled@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Just an example Jekll site. This will appear in document head meta (for
-  Google search results) and feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: wintercooled
 github_username:  wintercooled
 
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
+title: wintercooled.github.io
+description: >- # this means to ignore newlines
+  Just an example Jekll site. This will appear in document head meta (for
+  Google search results) and feed.xml site description.
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+
