@@ -10,7 +10,7 @@ permalink: /elements-code-tutorial/web-application
 
 <div style="color:red;'">IN THE PREVIOUS BLAH</div><br/>
 
-Now let's shift our code into Django (a Python web framework) so we can write the output to a web page. 
+Now we will shift the Python code from the previous tutorial section and have it run from Django (a Python web framework) so we can write the output to a web page. 
 
 Assuming you have already installed the prerequisites in the [Desktop application example in Python]({{ site.url }}/elements-code-tutorial/desktop-application-python) section we just need to install Django:
 
@@ -100,7 +100,7 @@ Which simply writes this to the page:
 
 <div style="color:red;'">INSERT IMAGE HERE</div><br/>
 
-As in the previous exercise - this is intended to get you up and running. The rest is up to you!
+As in the previous exercise, this is intended to get you up and running. The rest is up to you!
 
 
 [Next: Desktop application example in C# using .NET Core]({{ site.url }}/elements-code-tutorial/desktop-application-dotnetcore)

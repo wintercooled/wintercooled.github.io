@@ -8,25 +8,9 @@ permalink: /elements-code-tutorial/desktop-application-python
 
 ## Desktop application example in Python
 
-In the tutorial above we used a terminal to send commands to the Elements client (elements-cli). This in turn issued RPC commands to the Elements daemon (elementsd). This will be very familiar to those who develop for Bitcoin, which the Elements code is based upon.
+In this example we will be using Python to make an RPC (Remote Procedure Call) to the Elements daemon (elementsd). This was what the Elements client (elements-cli) application was doing when we executed commands in the main section of the tutorial. Any language that can make and receive http requests could be used. 
 
-The communication between daemon and client is possible because, when started in server mode, elementsd initiates an http server and listens for requests being made to it on a port specified in the associated elements.conf file. Requests to the daemon are made by posting JSON formatted data to the http server port the daemon is listening on. The request is processed and the results are returned as JSON formatted data.
-
-Verification details of the credentials needed to make these calls is also stored in the config file. This is how elements-cli and elementsd were able to communicate above - they both shared the same config file and therefore the client could satisfy the authentication checks of the daemon. 
-
-Take a look in the elements.conf file in $HOME/elementsdir1 and notice the following:
-
-<div class="console-output">rpcuser=user1
-rpcpassword=password1
-rpcport=18884
-daemon=1
-</div>
-
-We can use the same authentication details and port number to send requests to the elements daemon ourselves using a programming language and making RPC calls. We'll use Python for our example but any language that can make and receive http requests could be used. 
-
-Our aim is to: 
-
-Make a call to bitcoind from Python by executing some simple Python code
+Our aim is to simply make a call to elementsd using RPC by executing some basic Python code.
 
 First we will need to install a few prerequisites. From the terminal run the following commands one after another:
 
