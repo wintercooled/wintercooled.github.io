@@ -55,7 +55,7 @@ The Elements test network is called Elements Alpha and functions as a sidechain 
 
 * * * 
 
-## Find out more about Elements...
+### Find out more about Elements...
 
 [How Elements and its components work]({{ site.url }}/how-it-works)
 
