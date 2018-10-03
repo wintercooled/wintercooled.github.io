@@ -94,9 +94,9 @@ You should see the web server startup. Now all you have to do is open a browser 
 <div class="console-output">http://127.0.0.1:8000/elementstutorial
 </div>
 
-Which simply writes this to the page:
+Which simply writes the result of the "balance" call to the page:
 
-<div style="color:red;'">INSERT IMAGE HERE</div><br/>
+<img class="" alt="" src="{{ site.url }}/images/django.png" />
 
 As in the previous exercise, this is intended to get you up and running. The rest is up to you!
 

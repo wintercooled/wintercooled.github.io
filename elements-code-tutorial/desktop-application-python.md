@@ -76,7 +76,7 @@ python elementstutorial.py
 
 The result of which should be:
 
-<div style="color:red;'">INSERT IMAGE HERE</div><br/>
+<img class="" alt="" src="{{ site.url }}/images/python.png" />
 
 Obviously that's a very basic example but we now have the correct set up and you can use it as a building block for your future development work.
 

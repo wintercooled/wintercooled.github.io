@@ -109,7 +109,7 @@ dotnet run
 
 Which outputs:
 
-<div style="color:red;'">INSERT IMAGE HERE</div><br/>
+<img class="" alt="" src="{{ site.url }}/images/dotnet.png" />
 
 As an application would be making multiple calls to the elementsd daemon via RPC you will probably want to move the code that actually does the request and response work into its own function. Again, the code above is a starting point to get you up and running.
 
