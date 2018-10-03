@@ -28,7 +28,7 @@ The network operators of a Strong Federation consist of functionaries which eith
  
 The two roles a functionary can fulfill within a Strong Federation are...
  
-* **Watchmen** - responsible for moving assets in to and out of a sidechain by signing transactions on the main chain.
+* **Watchmen** - responsible for moving assets into and out of a sidechain by signing transactions on the main chain.
  
 * **Block Signers** - create blocks of transactions by signing, defining its consensus history.
 

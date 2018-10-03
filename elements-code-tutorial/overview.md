@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Elements Tutorial
-permalink: /elements-code-tutorial
+permalink: /elements-code-tutorial/overview
 ---
 
 # A simple guide to setting up an Elements Blockchain or Sidechain solution.

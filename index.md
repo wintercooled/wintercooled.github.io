@@ -61,6 +61,6 @@ The Elements test network is called Elements Alpha and functions as a sidechain 
 
 [Running Elements as a Blockchain or Sidechain]({{ site.url }}/blockchain-or-sidechain)
 
-[Learn Elements by following our code tutorial]({{ site.url }}/elements-code-tutorial)
+[Learn Elements by following our code tutorial]({{ site.url }}/elements-code-tutorial/overview)
 
 [Join the Elements community]({{ site.url }}/community)
