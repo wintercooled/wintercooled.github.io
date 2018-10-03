@@ -81,12 +81,12 @@ bottom right logo purple: #7a4596
   font-family: Open Sans, sans-serif !important;
   font-size: 14px !important;
   font-weight: 400 !important;
-  letter-spacing: 0.5px !important;
-  line-height: 1.2 !important;
+  letter-spacing: 0.4px !important;
   margin-top: 20px !important;
   margin-bottom: 20px !important;
   border-left: 2px solid #6d8ac5;
   padding-left: 16px;
+  line-height: 1.42857143 !important;
 }
 
 // A h5 is used as a code 'note:' block:
@@ -220,7 +220,7 @@ table th {
   background-color: white;
   color: #6d8ac5;
   font-family: Open Sans, sans-serif !important;
-  font-size: 16px !important;
+  font-size: 18px !important;
   font-weight: lighter !important;
   letter-spacing: 0.5px !important;
   line-height: 1.2 !important;
@@ -234,6 +234,7 @@ table th {
 table td {
   border: none;
   vertical-align: top;
+  line-height: 1.42857143 !important;
 }
 
 table tr:nth-child(even) {
