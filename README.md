@@ -1,5 +1,8 @@
 # wintercooled.github.io
-Example Github Pages site
+
+##### NOTE: This page is a work in progress.
+
+Will detail process of amending the site and how to run locally etc.
 
 clone the repository to your local machine
 

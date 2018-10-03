@@ -46,23 +46,5 @@ When should you use a blockchain as a solution?
 
 * * *
 
-### Checklist
-
-If you can answer 'Yes' to each of the following then your project is a good candidate for a private, federated Elements-based blockchain:
-
-* Do you need to record transactions of financial value in the system?
-
-* Is it unacceptable to use a trusted third party to perform this action?
-
-* Is there a need for multiple entities to register transactions?
-
-* Are all such entities known?
-
-* Do participants require that they should not have to trust any other participant to validate the accuracy of the written data?
-
-* Should transactions be privately and not publicly verifiable?
-<br />
-<br />
-
 #### Deciding if a blockchain is an appropriate way to deliver your project is the most important of these steps and it is worth highlighting up front that blockchains provide solutions to very specific types of problem.
 
