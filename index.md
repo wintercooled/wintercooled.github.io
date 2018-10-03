@@ -45,11 +45,11 @@ Extending and building upon Bitcoin's code allows developers familiar with the b
 The Elements test network is called Elements Alpha and functions as a sidechain to Bitcoin’s testnet. It serves as a technology demo and testing environment, making it easy for the community to jointly test the latest features being added to Elements. It also provides a way for developers to contribute their own Elements for community review, helping to improve and extend the Elements project and acting as a reliable way to test proposed changes to Bitcoin itself.
 
 ### Elements provides the following features
-* Confidential Assets
-* Confidential Transactions
+* [Confidential Assets]({{ site.url }}/elements-code-tutorial/issuing-assets)
+* [Confidential Transactions]({{ site.url }}/elements-code-tutorial/confidential-transactions)
 * Additional opcodes
-* Federated 2-way Peg
-* Signed Blocks
+* [Federated 2-way Peg]({{ site.url }}/elements-code-tutorial/sidechain)
+* [Signed Blocks]({{ site.url }}/elements-code-tutorial/block-creation)
 * Segregated Witness
 * Relative Lock Time
 
