@@ -17,6 +17,7 @@ baseurl: "" # the subpath of your site if neded, e.g. /sitecontent
 
 #email: elements@blockstream.io
 
+github_link: https://github.com/wintercooled/wintercooled.github.io
 title: elementsproject.org
 description: >- # this means to ignore newlines
   Elements - an open source, sidechain-capable blockchain platform.
