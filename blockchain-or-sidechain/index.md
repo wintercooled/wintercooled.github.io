@@ -10,7 +10,7 @@ permalink: /blockchain-or-sidechain
 A general purpose blockchain built on Elements acts as a stand alone blockchain with no dependencies on another chain for its asset issuance.
 In the context of the Elements platform, a Sidechain is an extension to an existing blockchain. Assets are transferable between chains allowing the main chain to benefit from the enhanced features of the sidechain such as rapid transfer finality and confidential transactions. Whilst a sidechain is aware of the main chain and its transaction history, the main chain has no awareness of the sidechain, and none is required for its operation. This enables sidechains to innovate without restriction or the delays associated with main chain protocol improvement proposals. Rather than trying to alter it directly, extending the main protocol allows the main chain itself to remain secure and specialized, underpinning the smooth operation of the sidechain.
  
-An example of an Elements based sidechain in production use is Liquid.
+An example of an Elements based sidechain in production use is Blockstream's Liquid.
  
 Liquid is an implementation of a federated sidechain - a private blockchain with different features, capabilities, and benefits than the main Bitcoin blockchain.
  

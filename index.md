@@ -6,11 +6,11 @@ title: Elements
 
 ## Designing, building and operating your own private blockchain is easy with Elements.
 
-An Elements based blockchain can operate as a stand alone blockchain or be pegged to another, enabling assets to be verifiably transferred between two different blockchains. 
+Elements is a Sidechain and standalone Blockchain solution. It allows you to harness the features that are being developed by other members of the Elements community, reducing internal development and research costs, enabling you to explore new applications of Blockchain and Sidechain technology.
 
-Elements allows you to issue multiple different types of asset on a single blockchain, opening up many new use cases for implementation.
- 
-Using Elements to create your own blockchain allows you to harness the features and new technologies that are being developed by other members of the Elements community. This can reduce internal development and research costs and enables you to explore new applications of blockchain solutions and technologies in a time effective manner.
+An Elements based blockchain can operate as either a standalone Blockchain or be pegged to another as a Sidechain. Running it as a Sidechain enables assets to be verifiably transferred between two different blockchains. 
+
+Elements also allows you to issue multiple different types of asset on a single blockchain, opening up many new use cases for implementation. An example of an Elements based sidechain in production use is Blockstream's Liquid.
 
 #### If you are developer you might find it easier to start with the [Elements Code Tutorial]({{ site.url }}/elements-code-tutorial) which explains some of the key features of Elements as you learn how to use it.
  
