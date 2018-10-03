@@ -35,7 +35,7 @@ permalink: /elements-code-tutorial/overview
 * * * 
 
 ### The tutorial is divided up into logical parts:
-<br/>
+
 [Installing Bitcoin]({{ site.url }}/elements-code-tutorial/installing-bitcoin)
 
 [Installing Elements]({{ site.url }}/elements-code-tutorial/installing-elements)
@@ -66,7 +66,7 @@ permalink: /elements-code-tutorial/overview
 
 [An easy way to run the main tutorial code]({{ site.url }}/elements-code-tutorial/easy-run-code)
 
-<br/>
+* * * 
 
 #### If you want to just run the code and not follow the tutorial you can skip to the [An easy way to run the main tutorial code]({{ site.url }}/elements-code-tutorial/easy-run-code) section, although this code is not annotated and steps are not explained.
 
