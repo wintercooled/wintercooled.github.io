@@ -164,7 +164,7 @@ bottom right logo purple: #7a4596
 
 // Size and spacing around the site logo - floated to the right
 .logo-float-left {
-  float: left;  
+  vertical-align: bottom;
   height: 100px;
   padding-top: 20px;
   padding-bottom: 20px;
