@@ -6,7 +6,7 @@ title: Elements
 
 ## Designing, building and operating your own private blockchain is easy with Elements.
 
-Elements is a Sidechain and standalone Blockchain solution. It allows you to harness the features that are being developed by other members of the Elements community, reducing internal development and research costs, enabling you to explore new applications of Blockchain and Sidechain technology.
+Elements is an open source, sidechain-capable blockchain solution. It allows you to harness the features that are being developed by other members of the Elements community, reducing internal development and research costs, enabling you to explore new applications of Blockchain and Sidechain technology.
 
 An Elements based blockchain can operate as either a standalone Blockchain or be pegged to another as a Sidechain. Running it as a Sidechain enables assets to be verifiably transferred between two different blockchains. 
 
