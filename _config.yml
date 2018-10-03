@@ -1,11 +1,11 @@
 theme: minima
 #remote_theme: jekyll/minima
 
-header_pages:
-  - elements-code-tutorial/part-one.md
-
 # Build settings
 markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
 
 # Site settings
 #    Used to personalize the site. If you look in the HTML files,
@@ -15,13 +15,10 @@ markdown: kramdown
 url: "https://wintercooled.github.io" 
 baseurl: "" # the subpath of your site if neded, e.g. /sitecontent
 
-email: wintercooled@gmail.com
-twitter_username: wintercooled
-github_username:  wintercooled
+#email: elements@blockstream.io
 
-title: wintercooled.github.io
+title: elementsproject.org
 description: >- # this means to ignore newlines
-  Just an example Jekll site. This will appear in document head meta (for
-  Google search results) and feed.xml site description.
+  Elements - an open source, sidechain-capable blockchain platform.
 
 
