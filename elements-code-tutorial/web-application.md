@@ -8,8 +8,6 @@ permalink: /elements-code-tutorial/web-application
 
 ## Web application example using Python with Django
 
-<div style="color:red;'">IN THE PREVIOUS BLAH</div><br/>
-
 Now we will shift the Python code from the previous tutorial section and have it run from Django (a Python web framework) so we can write the output to a web page. 
 
 Assuming you have already installed the prerequisites in the [Desktop application example in Python]({{ site.url }}/elements-code-tutorial/desktop-application-python) section we just need to install Django:
