@@ -12,7 +12,7 @@ You can edit files within this repository directly via Github or follow the step
 
 You can run this website locally to preview any changes you want to make before submitting a Pull Request.
 
-If you are using Linux you can follow the steps below. If you are not using Linux please follow the instructions at https://jekyllrb.com/docs/installation
+If you are using Linux you can follow the steps below. If you are not using Linux please follow the instructions at https://jekyllrb.com/docs/installation after cloning this repository to your local machine.
 
 Clone the repository:
 ~~~~
