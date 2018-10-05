@@ -12,17 +12,17 @@ So far, we have worked with Elements by running it as a sidechain to Bitcoin's b
 
 In this section we will:
 
-**1**&nbsp;&nbsp;&nbsp;&nbsp;Initialise a new elements blockchain with a default asset that we will name (we'll use "newasset").
+**1**&nbsp;&nbsp;&nbsp;&nbsp;Initialise a new elements blockchain with a default asset named "newasset".
 
-**2**&nbsp;&nbsp;&nbsp;&nbsp;Specify how many of the new asset will be created on creation of the genesis block (we'll use 1,000,000).
+**2**&nbsp;&nbsp;&nbsp;&nbsp;Specify 1,000,000 new asset to be created on initialisation. 
 
-**3**&nbsp;&nbsp;&nbsp;&nbsp;Specify how many reissuance tokens for our default asset will be generated on creation of the genesis block (we'll use 2).
+**3**&nbsp;&nbsp;&nbsp;&nbsp;Specify 2 reissuance tokens for our default asset on initialisation.
 
 **4**&nbsp;&nbsp;&nbsp;&nbsp;Claim all the anyone-can-spend "newasset" coins. 
 
 **5**&nbsp;&nbsp;&nbsp;&nbsp;Claim all the anyone-can-spend reissuance tokens for "newasset".
 
-**6**&nbsp;&nbsp;&nbsp;&nbsp;Show an example of sending both the asset and its reissuance token to another node's wallet.
+**6**&nbsp;&nbsp;&nbsp;&nbsp;Send the asset and its reissuance token to another node's wallet.
 
 **7**&nbsp;&nbsp;&nbsp;&nbsp;Reissue more "newasset" from both nodes.
 
