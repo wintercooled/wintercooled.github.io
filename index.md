@@ -21,10 +21,10 @@ An example of an Elements based sidechain in production use is Blockstream's Liq
 ### This site will guide you through...
 
 * Understanding what Elements is and what features and benefits it offers.
-* [Learning how Elements works]({{ site.url }}/how-it-works) and the various roles of network participants.
-* [Choosing]({{ site.url }}/blockchain-or-sidechain) between running Elements as a general purpose blockchain or as a pegged sidechain.
-* [Setting up and running]({{ site.url }}/elements-code-tutorial/overview) your own Elements based blockchain.
-* Joining the Elements open source [community]({{ site.url }}/community).
+* Understanding how blockchains built with Elements work and the various roles of network participants.
+* Choosing between running Elements as a general purpose blockchain or as a pegged sidechain.
+* Setting up and running your own Elements based blockchain.
+* Discovering the Elements open source community.
 
 * * * 
 
@@ -32,12 +32,12 @@ An example of an Elements based sidechain in production use is Blockstream's Liq
 
 |Features|Benefits|
 |--------|--------|
-|    Asset Issuance: multiple types of asset can be issued and transferred between network participants.|    Secured by a federation of parties with aligned incentives.|
-|    Confidential Transactions: allows transaction amounts and asset types to be private between transacting parties.|    Leverages the security of the Bitcoin codebase, allowing it to be extended with innovative new features.|
-|    Flexible Configuration: Elements can operate as a stand-alone blockchain or as a sidechain, where assets are pegged to another blockchain.|    No risk of blockchain reorganisations with rapid finality of transactions.|
-|    Schnorr Signatures: improved efficiency of transaction validation. New and compact modes of multi-signature.|    Advanced transaction privacy for both value and asset type transacted.|
-|     Federated, two-way peg: allow cross-chain transactions to be constructed in a decentralized fashion with assets that can be moved across blockchains.|    Can be pegged to assets on other blockchains, allowing interoperability between chains.|
-|    Signed Blocks: block creation through multi-party signature retains decentralized properties while decreasing transaction confirmation times and preventing reorganisations.|    Configurable set up, public testnet and open source code lets you experiment with different security models and features created by other members of the community.|
+|    Asset Issuance - multiple types of asset can be issued and transferred between network participants.|    Secured by a federation of parties with aligned incentives.|
+|    Confidential Transactions - transaction amount and asset type are private, known only to sender and receiver.|    Leverages the stability of the Bitcoin codebase, extending it with innovative new features.|
+|    Flexible Configuration - Elements can operate as a standalone blockchain or as a sidechain, where assets are pegged to those on another blockchain.|    No risk of blockchain reorganisations - federated blocksigning provides rapid transaction finality.|
+|    Schnorr Signatures - improved efficiency of transaction validation. New, compact multi-signature transactions.|    Advanced transaction privacy for both value and asset type transacted.|
+|     Federated, two-way peg - allows assets to be transacted across different blockchains.|    Issue multiple different types of assets on a single blockchain, opening up many new use cases.|
+|    Signed Blocks - block creation through multi-party signature retains decentralized properties while decreasing transaction confirmation times and preventing reorganisations.|    Public testnet and open source codebase lets you experiment with different security models and features created by other members of the community.|
 
 * * * 
 
@@ -49,9 +49,9 @@ The Elements test network is called Elements Alpha and functions as a sidechain 
 
 ### Elements provides the following enhanced features
 
-* [Confidential Assets]({{ site.url }}/elements-code-tutorial/issuing-assets)
+* [Issued Assets]({{ site.url }}/elements-code-tutorial/issuing-assets)
 * [Confidential Transactions]({{ site.url }}/elements-code-tutorial/confidential-transactions)
-* [Federated 2-way Peg]({{ site.url }}/elements-code-tutorial/sidechain)
+* [Federated Two-Way Peg]({{ site.url }}/elements-code-tutorial/sidechain)
 * [Signed Blocks]({{ site.url }}/elements-code-tutorial/block-creation)
 * Schnorr Signature Validation
 * Signature Covers Value
@@ -60,10 +60,10 @@ The Elements test network is called Elements Alpha and functions as a sidechain 
 
 ### Find out more about Elements...
 
-[How Elements and its components work]({{ site.url }}/how-it-works)
+[How blockchains built with Elements work]({{ site.url }}/how-it-works)
 
 [Running Elements as a Blockchain or Sidechain]({{ site.url }}/blockchain-or-sidechain)
 
-[Learn Elements by following our code tutorial]({{ site.url }}/elements-code-tutorial/overview)
+[Learn Elements by following the code tutorial]({{ site.url }}/elements-code-tutorial/overview)
 
 [Join the Elements community]({{ site.url }}/community)
