@@ -10,7 +10,7 @@ permalink: /elements-code-tutorial/issuing-assets
 
 In the code above we frequently made RPC calls that returned values denominated in "bitcoin". This is simply because the labelling of the default asset created by Elements is set to "bitcoin". 
 
-##### NOTE: If you are running Elements as a standalone blockchain - note that you can change the initial issuance of the default asset using the "initialfreecoins" setting in the config file. Beyond that you can also change things like the CURRENCY_UNIT constant (initially set to "BTC") in the Elements source code.
+##### NOTE: You can change the initial issuance amount of the default asset using the "initialfreecoins" parameter in the config file. You can also use "initialreissuancetokens" to allocate reissuance tokens for the default asset and "defaultpeggedassetname" to change the label of the default asset to something other than "bitcoin".
 
 In this section we'll issue our own assets, label them, re-issue them (basically create some more of that asset) and learn how to send them to other addresses. We'll also take a look at how to keep track of what assets have been issued and re-issued and also how to destroy assets. This last feature may be something which is required if you implement your own blockchain solution based upon real world assets. More on that later.
 
