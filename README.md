@@ -65,7 +65,7 @@ Note: changes you make to the .md files will be automatically rebuilt and there 
 
 The content pages served by elementsproject.org can be found within the content directories of this repository, such as "elements-code-tutorial" and "blockchain-or-sidechain". These content pages use markdown and will be output and served at static html pages by Github's Jekyll service. 
 
-If you are making changes to the content you see within the elementsproject.org site you only need to edit the content (".md") pages themselves. When changes are accepted into the repository Jekyll will build static page content from them and they will appear on the main website within a few minutes.
+If you are making changes to the content you see within the elementsproject.org site you only need to edit the content (".md") pages themselves. When changes are accepted into the repository Jekyll will build static page content from them and they will appear on the elementsproject.org website within a few minutes.
 
 For example: to make a change to the code tutorial's "Installing Elements" page you would fork this repository and edit the "elements-code-tutorial/installing-elements.md" file and make a pull request for your changes. If the pull request is accepted the changes will be automatically compiled and served by Jekyll and appear on the live site within a few minutes.
 
