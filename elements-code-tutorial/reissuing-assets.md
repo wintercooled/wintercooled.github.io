@@ -36,7 +36,7 @@ Let's look at the details of the transaction where we reissued our asset:
 e1-cli gettransaction $RTXID
 ~~~~
 
-Scroll to the top of the returned transaction data as there are a few things worth noting here. The first is that within the "amount" section we can see that 0 bitcoin and 99 demoasset were transacted:
+Scroll to the top of the returned transaction data as there are a few things worth noting here. The first is that within the "amount" section we can see that 0 "bitcoin" and 99 "demoasset" were transacted:
 
 <div class="console-output">"amount": {
   "bitcoin": 0.00000000,
@@ -48,7 +48,7 @@ This information suggests that an Elements transaction can transact more than on
 
 ##### NOTE: To send different types of asset in the same transaction, the 'sendmany" command is used. The syntax is the same as in bitcoin.
 
-The "amount" section shows the net effect of the transaction as: 0 bitcoin, 99 "demoasset" and also another asset that is 0. That unlabelled asset is our issuance token (the hex for which will differ from that above but the results are otherwise the same). What this shows is that once the sent and received amounts are totalled we have created 99 "demoasset". We'll see how the values in the "amount" section are derived now by scrolling down the returned data and looking within the "details" section. You will see that amounts of 99 "demoasset" and 1 reissuance token sere sent:
+The "amount" section shows the net effect of the transaction as: 0 "bitcoin", 99 "demoasset" and also another asset that is 0. That unlabelled asset is our issuance token (the hex for which will differ from that above but the results are otherwise the same). What this shows is that once the sent and received amounts are totalled we have created 99 "demoasset". We'll see how the values in the "amount" section are derived now by scrolling down the returned data and looking within the "details" section. You will see that amounts of 99 "demoasset" and 1 reissuance token sere sent:
 
 <div class="console-output">"category": 'send",
 "amount": -99.00000000,
