@@ -1,6 +1,6 @@
 # elementsproject.org
 
-## Site setup
+## How to propose changes to the [elementsproject.org website](https://www.elementsproject.org/)
 
 The [elementsproject.org website](https://www.elementsproject.org/) uses [Github Pages](https://pages.github.com/) to serve its web pages. 
 
