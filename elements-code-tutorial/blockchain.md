@@ -12,21 +12,21 @@ So far, we have worked with Elements by running it as a sidechain to Bitcoin's b
 
 In this section we will:
 
-* Initialise a new elements blockchain with a default asset that we will name (we will use "newasset").
+* 1) Initialise a new elements blockchain with a default asset that we will name (we will use "newasset").
 
-* Specify how many of the new asset will be created on creation of the genesis block (we will use 1,000,000).
+* 2) Specify how many of the new asset will be created on creation of the genesis block (we will use 1,000,000).
 
-* Specify how many reissuance tokens for our default asset will be generated on creation of the genesis block (we will use 2).
+* 3) Specify how many reissuance tokens for our default asset will be generated on creation of the genesis block (we will use 2).
 
-* Claim all the anyone-can-spend "newasset" coins. 
+* 4) Claim all the anyone-can-spend "newasset" coins. 
 
-* Claim all the anyone-can-spend reissuance tokens for "newasset".
+* 5) Claim all the anyone-can-spend reissuance tokens for "newasset".
 
-* Show an example of sending both the asset and its reissuance token to another node's wallet.
+* 6) Show an example of sending both the asset and its reissuance token to another node's wallet.
 
-* Reissue more "newasset" from both nodes.
+* 7) Reissue more "newasset" from both nodes.
 
-* We'll assume that you have already run the [Installing Elements]({{ site.url }}/elements-code-tutorial/installing-elements) and [Setting up your working environment]({{ site.url }}/elements-code-tutorial/working-environment) tutorial sections to install and prepare elements.
+We'll assume that you have already run the [Installing Elements]({{ site.url }}/elements-code-tutorial/installing-elements) and [Setting up your working environment]({{ site.url }}/elements-code-tutorial/working-environment) tutorial sections to install and prepare elements.
    
 In order to run Elements as a stand-alone blockchain we will make use of a few parameters that can be added to the elements.conf file or passed in on node start up. They are:
 
@@ -73,7 +73,7 @@ Let's look at what these parameters do in more detail:
 * * * 
 
 ### validatepegin
-As we will not be running this blockchain as a sidechain we need to disable the validation of the peg in, as there will be no peg in to validate!
+As we will not be running this blockchain as a sidechain we need to disable the validation of the peg in, as there will be no peg to validate.
 
 ### defaultpeggedassetname
 Allows you to specify the name of the default asset created upon blockchain initialisation. If you do not provide this the default asset created by Elements will be labelled as "bitcoin".
