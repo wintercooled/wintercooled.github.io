@@ -9,10 +9,12 @@ permalink: /community
 
 <span style="color:red;">NOTE: This needs updating and a decision made on the primary community discussion mediums.</span>
     
-* **Source Code**: [https://github.com/ElementsProject/elements](https://github.com/ElementsProject/elements)
+* **elementsproject.org** [{{ site.web_github_link }}]({{ site.web_github_link }})
 
-* **Slack Community**: [https://blockstream.slack.com](https://blockstream.slack.com) (users can get an invite automatically by visiting https://blockstream.herokuapp.com and providing an email address)
+* **Elements** [{{ site.elements_github_link }}]({{ site.elements_github_link }})
 
-* **Development Discussion List**: [sidechains-dev mailing list](https://lists.linuxfoundation.org/mailman/listinfo/sidechains-dev)
+* **Slack channel** [{{ site.slack_link }}]({{ site.slack_link }}) (users can get an invite automatically by visiting {{ site.slack_sign_up_link }} and providing an email address)
 
-* **Freenode IRC**: #sidechains-dev [webchat](http://webchat.freenode.net/?channels=%23sidechains-dev)
+* **Discussion list** [{{ site.mailing_list_link }}]({{ site.mailing_list_link }})
+
+* **Freenode IRC** [{{ site.freenode_irc_link }}]({{ site.freenode_irc_link }}) (webchat #sidechains-dev)

@@ -2,29 +2,19 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-    <span class="footer-heading">This site's source code is on <a href="{{ site.github_link }}">Github</a></span>
-<br/><br/>
-
+    
     <span class="footer-heading">{{ site.title | escape }}</span>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+          {%- if site.web_github_link -%}
+          <li class="footer-links"><a href="{{ site.web_github_link }}">elementsproject.org github</a></li>
+          {%- endif -%}
+          {%- if site.elements_github_link -%}
+          <li class="footer-links"><a href="{{ site.elements_github_link }}">elements github</a></li>
+          {%- endif -%}
         </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
       </div>
 
       <div class="footer-col footer-col-3">

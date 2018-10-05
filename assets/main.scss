@@ -309,6 +309,25 @@ code {
 }
 // <<< Code blocks
 
+.footer-links {
+  margin-bottom: 0px !important;
+  margin-left: 0px !important;
+}
+
+.footer-col-1 {
+  width: 50% !important;
+}
+
+.footer-col-3 {
+  width: 50% !important;
+}
+
+.footer-col-3 > p {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+
+
 // Override link color NB: don't, it changes menu items etc.
 /*
 a {
