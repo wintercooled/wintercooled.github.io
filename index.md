@@ -8,23 +8,23 @@ title: Elements
 
 Elements is an open source, sidechain-capable blockchain platform. Elements provides access to powerful features developed by other members of the community, reducing internal development and research costs and enabling you to explore new applications of Blockchain and Sidechain technology.
 
-Elements allows you to issue multiple different types of assets on a single blockchain, opening up many new use cases for implementation. An Elements based blockchain can operate as either a standalone Blockchain or be pegged to another as a Sidechain. Running it as a Sidechain enables assets to be verifiably transferred between two different blockchains. 
+Elements allows you to issue multiple different types of assets on a single blockchain, opening up many new use cases for implementation. An Elements based blockchain can operate as either a standalone Blockchain or be pegged to another and run as a Sidechain. Running Elements as a Sidechain enables assets to be verifiably transferred between two different blockchains. 
 
-Extending and built upon Bitcoin's code, it lets developers familiar with the bitcoind API to quickly and cost-effectively create working blockchains and test proof-of-concept projects. It also allows Elements to function as a testbed for changes to the Bitcoin protocol itself. 
+Built upon and extending Bitcoin's codebase, it lets developers familiar with the bitcoind API to quickly and cost-effectively create working blockchains and test proof-of-concept projects. This also allows Elements to function as a testbed for changes to the Bitcoin protocol itself. 
 
 An example of an Elements based sidechain in production use is Blockstream's Liquid.
 
-#### If you are developer you might find it easier to start with the [Elements Code Tutorial]({{ site.url }}/elements-code-tutorial) which explains some of the key features of Elements as you learn how to use it.
+#### If you are developer, you might find it easier to start with the [Elements Code Tutorial]({{ site.url }}/elements-code-tutorial), which will explain the key features of Elements and show you how to use them.
  
 * * * 
 
-### The site will guide you through...
+### This site will guide you through...
 
 * Understanding what Elements is and what features and benefits it offers.
-* [Learn how Elements works]({{ site.url }}/how-it-works) and the roles its network participants play.
-* Choosing between using Elements as a general purpose [blockchain or a pegged sidechain]({{ site.url }}/blockchain-or-sidechain).
-* [Setting up and running]({{ site.url }}/elements-code-tutorial) your own Elements based blockchain.
-* Contributing new features to the Elements project and [joining the community]({{ site.url }}/community).
+* [Learning how Elements works]({{ site.url }}/how-it-works) and the various roles of network participants.
+* [Choosing]({{ site.url }}/blockchain-or-sidechain) between running Elements as a general purpose blockchain or as a pegged sidechain.
+* [Setting up and running]({{ site.url }}/elements-code-tutorial/overview) your own Elements based blockchain.
+* Joining the Elements open source [community]({{ site.url }}/community).
 
 * * * 
 

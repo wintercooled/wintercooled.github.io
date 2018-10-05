@@ -4,14 +4,21 @@
 
 @import "minima";
 
-// Elements theme color ref:
 /*
-Grey h1 and borders: #f0f0f0
-"black" text and highlighted drop down parent etc is actually: #333
-top left logo light blue: #5caadd
-left logo blue: #6d8ac5
-right logo purple-blue: #5f53a2
-bottom right logo purple: #7a4596
+
+CSS NOTES
+*********
+
+use of letter-spacing on smaller font sizes makes the font easier to read in most browsers but this does not render well in Firefox on Ubuntu for some reason, due to the rendering engine it uses. So spacing has been ommited aprt from in h1, h2 etc.
+
+Elements theme color ref:
+  Grey h1 and borders: #f0f0f0
+  "black" text and highlighted drop down parent etc is actually: #333
+  top left logo light blue: #5caadd
+  left logo blue: #6d8ac5
+  right logo purple-blue: #5f53a2
+  bottom right logo purple: #7a4596
+
 
 */
 
@@ -81,7 +88,7 @@ bottom right logo purple: #7a4596
   font-family: Open Sans, sans-serif !important;
   font-size: 14px !important;
   font-weight: 400 !important;
-  letter-spacing: 0.4px !important;
+  //letter-spacing: 0.4px !important;
   margin-top: 20px !important;
   margin-bottom: 20px !important;
   border-left: 2px solid #6d8ac5;
@@ -115,7 +122,7 @@ bottom right logo purple: #7a4596
   margin-left: 18px !important;
   margin-right: 18px !important;
   margin-bottom: 16px !important;
-  letter-spacing: 0.4px !important;
+  //letter-spacing: 0.4px !important;
 }
 
 .li, li {
@@ -223,7 +230,7 @@ table {
   color: #333 !important;
   font-family: Open Sans, sans-serif !important;
   //font-weight: 300 !important;
-  letter-spacing: 0.5px !important;
+  //letter-spacing: 0.5px !important;
   line-height: 1.2 !important;
   border: none;
   margin-left: 18px;
@@ -235,7 +242,7 @@ table th {
   font-family: Open Sans, sans-serif !important;
   font-size: 18px !important;
   font-weight: lighter !important;
-  letter-spacing: 0.5px !important;
+  //letter-spacing: 0.5px !important;
   line-height: 1.2 !important;
   border-bottom: 1px solid #c9c9c9;
   border-top: none;
