@@ -5,9 +5,7 @@ permalink: /community
 ---
 # Join the Elements community and contribute to the project.
 
-## Elements is a community driven, open source project.
-
-<span style="color:red;">NOTE: This needs updating and a decision made on the primary community discussion mediums.</span>
+## Elements is a community-driven, open source project.
     
 * **elementsproject.org** [{{ site.web_github_link }}]({{ site.web_github_link }})
 
