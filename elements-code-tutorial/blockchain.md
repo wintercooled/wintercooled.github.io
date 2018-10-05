@@ -12,19 +12,19 @@ So far, we have worked with Elements by running it as a sidechain to Bitcoin's b
 
 In this section we will:
 
-**1**&nbsp;&nbsp;&nbsp;&nbsp;Initialise a new elements blockchain with a default asset named "newasset".
+**1.**&nbsp;&nbsp;&nbsp;&nbsp;Initialise a new elements blockchain with a default asset named "newasset".
 
-**2**&nbsp;&nbsp;&nbsp;&nbsp;Specify 1,000,000 new asset to be created on initialisation. 
+**2.**&nbsp;&nbsp;&nbsp;&nbsp;Specify 1,000,000 new asset to be created on initialisation. 
 
-**3**&nbsp;&nbsp;&nbsp;&nbsp;Specify 2 reissuance tokens for our default asset on initialisation.
+**3.**&nbsp;&nbsp;&nbsp;&nbsp;Specify 2 reissuance tokens for our default asset on initialisation.
 
-**4**&nbsp;&nbsp;&nbsp;&nbsp;Claim all the anyone-can-spend "newasset" coins. 
+**4.**&nbsp;&nbsp;&nbsp;&nbsp;Claim all the anyone-can-spend "newasset" coins. 
 
-**5**&nbsp;&nbsp;&nbsp;&nbsp;Claim all the anyone-can-spend reissuance tokens for "newasset".
+**5.**&nbsp;&nbsp;&nbsp;&nbsp;Claim all the anyone-can-spend reissuance tokens for "newasset".
 
-**6**&nbsp;&nbsp;&nbsp;&nbsp;Send the asset and its reissuance token to another node's wallet.
+**6.**&nbsp;&nbsp;&nbsp;&nbsp;Send the asset and its reissuance token to another node's wallet.
 
-**7**&nbsp;&nbsp;&nbsp;&nbsp;Reissue more "newasset" from both nodes.
+**7.**&nbsp;&nbsp;&nbsp;&nbsp;Reissue more "newasset" from both nodes.
 
 We'll assume that you have already run the [Installing Elements]({{ site.url }}/elements-code-tutorial/installing-elements) and [Setting up your working environment]({{ site.url }}/elements-code-tutorial/working-environment) tutorial sections to install and prepare elements.
    
