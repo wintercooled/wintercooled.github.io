@@ -8,6 +8,8 @@ Github Pages itself uses [Jeykyll](https://jekyllrb.com/) to generate static web
 
 You can edit files within this repository directly via Github or follow the steps below if you prefer to work on and preview you changes locally.
 
+If you are not comfortable doing this please raise any changes you would like to propose as an issue [here](//issues) and use the "suggested content change" label.
+
 ## Running elementsproject.org locally
 
 You can run this website locally to preview any changes you want to make before submitting a Pull Request.
@@ -78,7 +80,7 @@ Any style changes from the base theme should be added to this site's "assets/mai
 
 Any images should be added to this site's "images" directory.
 
-The "_layouts" directory includes files that form the templates of the pages served by Jekyll. For example: the content pages (such as "elements-code-tutorial/overview.md") are inserted into the "conntent" tag within "_layouts/page.html" as they are served. 
+The "_layouts" directory includes files that form the templates of the pages served by Jekyll. For example: the content pages (such as "elements-code-tutorial/overview.md") are inserted into the "content" tag within "_layouts/page.html" as they are served. 
 
 
 
