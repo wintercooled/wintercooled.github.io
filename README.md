@@ -70,7 +70,7 @@ If you are making changes to the content you see within the elementsproject.org 
 For example: to make a change to the code tutorial's "Installing Elements" page you would fork this repository, edit the "elements-code-tutorial/installing-elements.md" file and make a pull request for your change. If the pull request is accepted, the changes will be automatically built and served by Jekyll and will appear on the live site within a few minutes.
 
 
-## Site structure, Jekyll and how to make changes for things other than actual page content
+## How to make changes for things other than actual page content
 
 The site uses the [minima](https://github.com/jekyll/minima) theme as a base style and layout template. This content is served by Github Pages which includes content from that repository when serving static pages for this site. The theme's source is included using the "theme" property within the "_config.yml" file. The files within the minima source repository are used to serve style and layout content unless they are explicitly overridden on a file-by-file basis here. To override any files served by the minima theme they must be copied into the relevant directory within this site. As an example: this site overrides minima's default "_includes/footer.html" file as it contains a copy of that file, taken from the minia source, and included and amended as "_includes/footer.html" here.
 
