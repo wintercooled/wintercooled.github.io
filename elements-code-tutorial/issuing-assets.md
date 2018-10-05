@@ -122,7 +122,7 @@ This is the hex of the token that can be used to reissue the asset, yours will d
 <div class="console-output">"tokenamount": 1.00000000,
 </div>
 
-Notice that the default "bitcoin" asset has a token hex but that the token amount is 0, meaning that it cannot be reissued.
+Notice that the default "bitcoin" asset has a token hex but that the token amount is 0, meaning that it cannot be reissued. This can be changed by setting the "initialreissuancetokens" parameter to a non-zero amount when you first initliase a chain.
 
 Confirm the transaction:
 
