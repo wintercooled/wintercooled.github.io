@@ -6,7 +6,7 @@ The elementsproject.org website uses [Github Pages](https://pages.github.com/) t
 
 Github Pages itself uses [Jeykyll](https://jekyllrb.com/) to generate static website content from simple "markdown" formatted files. Making changes to pages on the elementsproject.org site is as easy as editing one of this repository's ".md" files. Accepted changes will be automatically built and served to the elementsproject.org website.
 
-You can edit files within this repository directly via Github or follow the steps below if you prefer to work on and preview you changes locally.
+You can edit files within this repository directly via Github or follow the steps below if you prefer to work on and preview your changes locally.
 
 If you are not comfortable doing this please raise any changes you would like to propose as an issue [here](https://github.com/wintercooled/wintercooled.github.io/issues) and use the "suggested content change" label.
 
