@@ -2,7 +2,7 @@
 
 ## How to propose changes to the [https://www.elementsproject.org](https://www.elementsproject.org/) website
 
-The elementsproject.org website uses [Github Pages](https://pages.github.com/) to serve its content from the pages within this repository.
+The elementsproject.org website uses [Github Pages](https://pages.github.com/) to serve its content directly from the files within this repository.
 
 Github Pages itself uses [Jeykyll](https://jekyllrb.com/) to generate static website content from simple "markdown" formatted files. Making changes to pages on the elementsproject.org site is as easy as editing one of this repository's ".md" files. Accepted changes will be automatically built and served to the elementsproject.org website.
 
