@@ -44,7 +44,7 @@ Move into the site's directory:
 cd wintercooled.github.io
 ~~~~
 
-Install the dependencies required by the Gemfile:
+Install the dependencies required by the website's Gemfile:
 ~~~~
 bundle install
 ~~~~
