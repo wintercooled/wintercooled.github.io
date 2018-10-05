@@ -21,7 +21,7 @@ An example of an Elements based sidechain in production use is Blockstream's Liq
 ### This site will guide you through...
 
 * Understanding what Elements is and what features and benefits it offers.
-* Understanding how blockchains built with Elements work and the various roles of network participants.
+* Understanding how blockchains built with Elements work and the roles of network participants.
 * Choosing between running Elements as a general purpose blockchain or as a pegged sidechain.
 * Setting up and running your own Elements based blockchain.
 * Discovering the Elements open source community.
