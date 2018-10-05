@@ -21,14 +21,9 @@ Clone the repository:
 git clone https://github.com/wintercooled/wintercooled.github.io.git
 ~~~~
 
-If you do not already have the build-essential package compiler installed:
+Install ruby, ruby-dev and build-essential packages: 
 ~~~~
-sudo apt-get install build-essential
-~~~~
-
-If you do not already have ruby and ruby-dev installed: 
-~~~~
-sudo apt-get install ruby ruby-dev
+sudo apt-get install ruby ruby-dev build-essential
 ~~~~
 
 It is best to avoid installing Ruby Gems as the root user. If you have not already set up a gem installation directory for your user account, execute the following commands to add the required environment variables to your ~/.bashrc file. This will configure the gem installation path:
@@ -49,7 +44,7 @@ Move into the site's directory:
 cd wintercooled.github.io
 ~~~~
 
-Install the dependencies required by the Gemfile:
+Install the dependencies required by the website's Gemfile:
 ~~~~
 bundle install
 ~~~~
