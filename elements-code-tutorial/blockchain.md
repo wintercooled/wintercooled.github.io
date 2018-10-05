@@ -46,7 +46,7 @@ e1-cli stop
 e2-cli stop
 ~~~~
 
-We will have no use for the Bitcoin daemon so if it is still running from a previous tutorial session you can use the command  b-cli stop  to shut it down.
+We will have no use for the Bitcoin daemon so if it is still running from a previous tutorial session you can use the command "b-cli stop" to shut it down.
 
 Next we'll need to clear out any existing blockchain and wallet data as we will be creating a new blockchain from scratch. If these error that is fine and likely just because the data does not exist anyway:
 
@@ -60,7 +60,7 @@ rm -r ~/elementsdir2/elementsregtest/chainstate
 rm ~/elementsdir2/elementsregtest/wallet.dat
 ~~~~
 
-Now we will perform steps 1 - 3 above. This is done by starting our two nodes with a few parameters used to configure the initialisation of our blockchain. We'll look at what these do in a moment:
+Now we will perform steps 1 - 3 above. This is done by starting our two nodes with a few parameters used to configure the initialisation of our blockchain.
 
 ~~~~
 STANDALONEARGS="-validatepegin=0 -defaultpeggedassetname=newasset -initialfreecoins=100000000000000 -initialreissuancetokens=200000000"
@@ -68,7 +68,7 @@ e1-dae $STANDALONEARGS
 e2-dae $STANDALONEARGS
 ~~~~
 
-Next we'll look at the parameters used in more detail.
+Let's look at what these parameters do in more detail:
 
 * * * 
 
