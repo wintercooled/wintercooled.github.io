@@ -67,7 +67,7 @@ The content pages served by elementsproject.org can be found within the content 
 
 If you are making changes to the content you see within the elementsproject.org site you only need to edit the content (".md") pages themselves. When changes are accepted into the repository Jekyll will build static page content from them and they will appear on the elementsproject.org website within a few minutes.
 
-For example: to make a change to the code tutorial's "Installing Elements" page you would fork this repository and edit the "elements-code-tutorial/installing-elements.md" file and make a pull request for your changes. If the pull request is accepted the changes will be automatically compiled and served by Jekyll and appear on the live site within a few minutes.
+For example: to make a change to the code tutorial's "Installing Elements" page you would fork this repository, edit the "elements-code-tutorial/installing-elements.md" file and make a pull request for your change. If the pull request is accepted, the changes will be automatically built and served by Jekyll and will appear on the live site within a few minutes.
 
 
 ## Site structure, Jekyll and how to make changes for things other than actual page content
