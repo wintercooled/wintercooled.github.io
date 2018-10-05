@@ -29,7 +29,7 @@ If you do not already have ruby and ruby-dev installed:
 sudo apt-get install ruby ruby-dev
 ~~~~
 
-It is best to avoid installing Ruby Gems as the root user. If you have not already set up a gem installation directory for your user account, add the required environment variables to your ~/.bashrc file. This will configure the gem installation path:
+It is best to avoid installing Ruby Gems as the root user. If you have not already set up a gem installation directory for your user account, execute the following commands to add the required environment variables to your ~/.bashrc file. This will configure the gem installation path:
 ~~~~
 echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
 echo 'export GEM_HOME=$HOME/gems' >> ~/.bashrc
