@@ -8,7 +8,7 @@ Github Pages itself uses [Jeykyll](https://jekyllrb.com/) to generate static web
 
 You can edit files within this repository directly via Github or follow the steps below if you prefer to work on and preview you changes locally.
 
-If you are not comfortable doing this please raise any changes you would like to propose as an issue [here](./issues) and use the "suggested content change" label.
+If you are not comfortable doing this please raise any changes you would like to propose as an issue [here](../issues) and use the "suggested content change" label.
 
 ## Running elementsproject.org locally
 
