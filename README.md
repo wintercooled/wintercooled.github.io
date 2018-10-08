@@ -79,6 +79,6 @@ The "_layouts" directory includes files that form the templates of the pages ser
 
 You can create your own site variables by adding them to "_config.yml". 
 
-If you want to add **Javascript** to a page please refer to _include/header.html to see how this is done.
+If you want to add Javascript to a page please refer to _include/header.html to see how this is done.
 
 
