@@ -77,6 +77,109 @@ Any images should be added to this site's "images" directory.
 
 The "_layouts" directory includes files that form the templates of the pages served by Jekyll. For example: the content pages (such as "elements-code-tutorial/overview.md") are inserted into the "content" tag within "_layouts/page.html" as they are served. 
 
+### Example markdown used by this website
+
+The following demonstrates how "markdown" is used by the site to present content. To view the markdown that results in the following formatting you can use the 'edit' button within Github to view this page's source.
+
+# Example main page heading
+
+## Example page summary
+
+Example standard paragraph text one.
+
+Example standard paragraph text two.
+
+### Example sub heading
+
+Example standard paragraph text three.
+
+Example standard paragraph text four with **emphasis** text.
+
+Use of a horizontal rule to seperate content:
+
+* * *
+
+Example [link](({{ site.url }}/how-it-works)) to another page within the site.
+
+Example external [link](https://github.com/jekyll/minima).
+
+* * * 
+
+|Example table header one|Example table header two|
+|--------|--------|
+|Row 1 column 1|Row 1 column 2|
+|Row 2 column 1|Row 2 column 2|
+|Row 3 column 1|Row 3 column 2|
+
+* * *
+
+Example bullet point list:
+
+* Bullet point one.
+
+* Bullet point two.
+
+* Bullet point three.
+
+* * *
+
+#### Note: An example note block.
+
+Example use of `code formatting` within a block of normal text.
+
+~~~~
+Example standalone code block
+...which can span many lines
+~~~~
+
+Note: The syntax highlighter option has been disabled within "_config.yml". 
+
+* * * 
+
+Some formatting relies on using html:
+
+<div class="console-output">Example output from an executed code block, file content, file path etc.
+</div>
+
+**1.**&nbsp;&nbsp;&nbsp;&nbsp;Example numbered list item one.
+
+**2.**&nbsp;&nbsp;&nbsp;&nbsp;Example numbered list item two.
+
+Example use of the "br" tag to force repeating line breaks:
+<br/>
+<br/>
+<br/>
+This may be needed as consecutive carriage returns in markdown are not rendered...
 
 
+
+...as this text shows.
+
+* * * 
+
+Example embedded image using html:
+
+<img class="" alt="alt text" src="{{ site.url }}/images/elements_logo_no_border_small.png" />
+
+* * * 
+
+Example embedded image using inline-style and hover text: 
+
+![alt text]({{ site.url }}/images/elements_logo_no_border_small.png "Hover text inline")
+
+* * * 
+
+Example embedded image using reference-style and hover text: 
+
+![alt text][logo]
+
+[logo]: {{ site.url }}/images/elements_logo_no_border_small.png "Hover text reference"
+
+* * * 
+
+Example use of a site variable: {{ site.url }}
+
+You can create your own site variables by adding them to "_config.yml". 
+
+If you want to add **Javascript** to a page please refer to _include/header.html to see how this is done.
 

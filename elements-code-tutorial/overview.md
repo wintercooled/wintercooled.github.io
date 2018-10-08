@@ -70,6 +70,8 @@ permalink: /elements-code-tutorial/overview
 
 #### If you want to just run the code and not follow the tutorial you can skip to the [An easy way to run the main tutorial code]({{ site.url }}/elements-code-tutorial/easy-run-code) section, although this code is not annotated and steps are not explained.
 
-The instructions are based on, and have been tested against, newly installed Ubuntu 16.04, 17.10.1 and 18.04.1 machines using the "Minimal Installation" install option. Please note that the `terminal commands` used within the tutorial may wrap over more than one line.
+The instructions are based on, and have been tested against, newly installed Ubuntu 16.04, 17.10.1 and 18.04.1 machines using the "Minimal Installation" install option. 
+
+Please note that the `terminal commands` used within the tutorial may wrap over more than one line.
 
 By following the guide through to completion you should have enough knowledge to build and deploy your own Elements based blockchain. [Get started: Installing Bitcoin]({{ site.url }}/elements-code-tutorial/installing-bitcoin)

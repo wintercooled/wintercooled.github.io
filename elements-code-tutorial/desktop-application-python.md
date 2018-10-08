@@ -26,7 +26,7 @@ Create a new file in your home directory, name it elementstutorial.py and paste 
 
 * * *
 
-##### NOTE Python requires that lines are indented correctly - make sure the code below is copied correctly with 4 spaces as indentations. Also note that some of the lines below wrap when viewed in a browser.
+##### Note: Python requires that lines are indented correctly - make sure the code below is copied correctly with 4 spaces as indentations. Also note that some of the lines below wrap when viewed in a browser.
 
 ~~~~
 from __future__ import print_function
@@ -65,7 +65,7 @@ bitcoind -datadir=$HOME/bitcoindir
 
 If you get an error saying they are already running that's fine.
 
-##### NOTE: If you get an error connecting to the elements client when you run the code below it may be because your node has been left in an altered state after quitting the tutorial code at an early stage. To refresh and reset the daemon’s blockchain and config files re-run the first section of the tutorial code up to and including the lines where the 3 config files are copied into the new directories then run the commands above to start the required daemons.
+##### Note: If you get an error connecting to the elements client when you run the code below it may be because your node has been left in an altered state after quitting the tutorial code at an early stage. To refresh and reset the daemon’s blockchain and config files re-run the first section of the tutorial code up to and including the lines where the 3 config files are copied into the new directories then run the commands above to start the required daemons.
 
 To run our Python code execute the following command:
 

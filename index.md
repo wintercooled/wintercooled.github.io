@@ -6,9 +6,9 @@ title: Elements
 
 ## Designing, building and operating your own private blockchain is easy with Elements.
 
-Elements is an open source, sidechain-capable blockchain platform. Elements provides access to powerful features developed by other members of the community, reducing internal development and research costs and enabling you to explore new applications of Blockchain and Sidechain technology.
+Elements is an open source, sidechain-capable blockchain platform. Elements provides access to powerful features developed by members of the community, reducing internal development and research costs and enabling you to explore new applications of Blockchain and Sidechain technology.
 
-Elements allows you to issue multiple different types of assets on a single blockchain, opening up many new use cases for implementation. An Elements based blockchain can operate as either a standalone Blockchain or be pegged to another and run as a Sidechain. Running Elements as a Sidechain enables assets to be verifiably transferred between two different blockchains. 
+Launched in June of 2015, Elements allows you to issue multiple different types of assets on a single blockchain, opening up many new use cases for implementation. An Elements based blockchain can operate as either a standalone Blockchain or be pegged to another and run as a Sidechain. Running Elements as a Sidechain enables assets to be verifiably transferred between two different blockchains. 
 
 Built upon and extending Bitcoin's codebase, it lets developers familiar with the bitcoind API to quickly and cost-effectively create working blockchains and test proof-of-concept projects. This also allows Elements to function as a testbed for changes to the Bitcoin protocol itself. 
 
@@ -67,3 +67,4 @@ The Elements test network is called Elements Alpha and functions as a sidechain 
 [Learn Elements by following the code tutorial]({{ site.url }}/elements-code-tutorial/overview)
 
 [Join the Elements community]({{ site.url }}/community)
+

@@ -293,12 +293,8 @@ ul > li {
   margin-left: 6px;
 }
 
-// Code blocks >>> please note that syntax_highlighter_opts are disabled in _config.yml and should remain so
+// Code blocks used via the ~~~~ wrapper
 pre {
-  color: white !important;
-  background-color: #5f5f5f !important;
-  border-color: transparent !important;
-  border-radius: 4px !important;
   padding-left: 17px !important;
   padding-right: 17px !important;
   padding-top: 8px !important;
@@ -306,15 +302,13 @@ pre {
   margin-bottom: 20px !important;
 }
 
+// In-text code used via the ` character wrapper. Please note that syntax_highlighter_opts have been disabled in _config.yml
 code {
-  color: white !important;
-  background-color: #5f5f5f !important;
-  border-color: transparent !important;
-  border-radius: 4px !important;
-  padding-top: 2px !important;
-  padding-bottom: 0px !important;
+  color: #333 !important;
+  background-color: #f5f5f5 !important;
+  padding-top: 3px !important;
+  padding-bottom: 2px !important;
 }
-// <<< Code blocks
 
 .footer-links {
   margin-bottom: 0px !important;

@@ -19,8 +19,12 @@ cd
 We'll create some test directories to hold the data used by our Bitcoin node and also two instances of an Elements node. First we'll remove any that are left from running through this guide previously. Don't worry if the first line throws any errors - it just means the directories are not there and can't be removed and is not a problem.
 
 ~~~~
-rm -r ~/bitcoindir ; rm -r ~/elementsdir1 ; rm -r ~/elementsdir2
-mkdir ~/bitcoindir ; mkdir ~/elementsdir1 ; mkdir ~/elementsdir2
+rm -r ~/bitcoindir
+rm -r ~/elementsdir1
+rm -r ~/elementsdir2
+mkdir ~/bitcoindir
+mkdir ~/elementsdir1
+mkdir ~/elementsdir2
 ~~~~
 
 We need to set up our config files now. We'll do that by copying the configuration files from the elements source code example. 
