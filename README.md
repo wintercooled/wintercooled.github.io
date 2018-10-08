@@ -77,5 +77,8 @@ Any images should be added to this site's "images" directory.
 
 The "_layouts" directory includes files that form the templates of the pages served by Jekyll. For example: the content pages (such as "elements-code-tutorial/overview.md") are inserted into the "content" tag within "_layouts/page.html" as they are served. 
 
+You can create your own site variables by adding them to "_config.yml". 
+
+If you want to add **Javascript** to a page please refer to _include/header.html to see how this is done.
 
 
