@@ -88,4 +88,4 @@ The **Federated 2-way Peg** feature allows such assets to be interoperable with 
 
 #### Whether your Elements project is set up to operate as a standalone blockchain or as a sidechain to another blockchain, Strong Federation technology provides a significant advantage over more cost and time-intensive consensus methods, whilst retaining the properties of a trust-minimized system.
 
-
+[Next: Running Elements as a Blockchain or Sidechain]({{ site.url }}/blockchain-or-sidechain)
