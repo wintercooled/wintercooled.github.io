@@ -8,7 +8,7 @@ permalink: /elements-code-tutorial/overview
 
 ## This guide will take you through the process of installing and running Elements step-by-step. 
 
-### The code examples will show you how to
+### The code examples will show you how to:
 
 * Configure two Elements instances that can send transactions between each other.
 
@@ -26,7 +26,7 @@ permalink: /elements-code-tutorial/overview
 
 * Sign blocks using the Strong Federation ’n of m’ model of block creation.
 
-### ...and if you choose to run Elements as a sidechain
+### ...and if you choose to run Elements as a sidechain:
 
 * Send assets from a main chain (Bitcoin in this example) to our Elements blockchain using the Federated Peg feature.
 
@@ -70,8 +70,10 @@ permalink: /elements-code-tutorial/overview
 
 #### If you want to just run the code and not follow the tutorial you can skip to the [An easy way to run the main tutorial code]({{ site.url }}/elements-code-tutorial/easy-run-code) section, although this code is not annotated and steps are not explained.
 
-The instructions are based on, and have been tested against, newly installed Ubuntu 16.04, 17.10.1 and 18.04.1 machines using the "Minimal Installation" install option. 
+The instructions have been tested against newly installed Ubuntu 16.04, 17.10.1 and 18.04.1 machines using the "Minimal Installation" Ubuntu install option. 
 
-Please note that the `terminal commands` used within the tutorial may wrap over more than one line.
+Please note that the `terminal commands` used within the tutorial may wrap over more than one line and that each line should be run in its entirety.
 
-By following the guide through to completion you should have enough knowledge to build and deploy your own Elements based blockchain. [Get started: Installing Bitcoin]({{ site.url }}/elements-code-tutorial/installing-bitcoin)
+By following the guide through to completion you should have enough knowledge to build and deploy your own Elements based blockchain.
+
+[Get started: Installing Bitcoin]({{ site.url }}/elements-code-tutorial/installing-bitcoin)
