@@ -3,13 +3,9 @@ layout: home
 title: wintercooled.github.io
 ---
 
-<br/>
-<br/>
-<br/>
+#### Note: If you are looking for the Elements website, it is now [here](https://elementsproject.github.io).
 
-### If you are looking for the Elements website, it is now here:
+* * * 
 
-### [https://elementsproject.github.io](https://elementsproject.github.io)
-
-
-
+### Random Stuff
+[Example Jekyll Markdown]({{ site.url }}/random-stuff/example-jekyll-markdown)

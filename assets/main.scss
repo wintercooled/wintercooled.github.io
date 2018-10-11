@@ -30,7 +30,7 @@ Elements theme color ref:
 }
 
 .h1, h1 {
-  background-color: #6d8ac5;
+  background-color: black;
   color: white !important;
   font-family: Open Sans, sans-serif !important;
   font-size: 28px !important;
@@ -91,17 +91,19 @@ Elements theme color ref:
   //letter-spacing: 0.4px !important;
   margin-top: 20px !important;
   margin-bottom: 20px !important;
-  border-left: 2px solid #6d8ac5;
+  border-left: 2px solid black;
   padding-left: 16px;
   line-height: 1.42857143 !important;
 }
 
 // A h5 is used as a code 'note:' block:
 .h5, h5 {
-  color: #333 !important;
+  color: #FF4400 !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.7px;
   margin-top: 20px !important;
   margin-bottom: 20px !important;
-  border-left: 2px solid #6d8ac5;
+  border-left: 3px solid #FF4400;
   padding-left: 16px;
   line-height: 1.42857143 !important;
 }
@@ -245,7 +247,7 @@ table {
 
 table th {
   background-color: white;
-  color: #6d8ac5;
+  color: black;
   font-family: Open Sans, sans-serif !important;
   font-size: 18px !important;
   font-weight: lighter !important;
