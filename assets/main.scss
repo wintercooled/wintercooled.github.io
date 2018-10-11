@@ -172,9 +172,10 @@ Elements theme color ref:
 // Size and spacing around the site logo - floated to the right
 .logo-float-left {
   vertical-align: bottom;
-  height: 100px;
+  //height: 100px;
+  width: 680px;
   padding-top: 20px;
-  padding-bottom: 20px;
+  //padding-bottom: 20px;
 }
 
 // Size and spacing around the site logo - as used in the footer
