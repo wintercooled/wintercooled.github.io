@@ -1,8 +1,8 @@
 # wintercooled.github.io
 
-## How to propose changes to the [wintercooled.github.io](https://wintercooled.github.io/) website
+## Just a place holder at the minute and somewhere to collect my notes on using Jeykll on Github Pages
 
-The wintercooled.github.io website uses [Github Pages](https://pages.github.com/) to serve its content using the files within this repository.
+The [website](https://wintercooled.github.io/) uses [Github Pages](https://pages.github.com/) to serve its content using the files within this repository.
 
 Github Pages itself uses [Jeykyll](https://jekyllrb.com/) to generate static website content from simple "markdown" formatted files. Making changes to pages on the wintercooled.github.io site is as easy as editing one of this repository's ".md" files. Accepted changes will be automatically built and served to the website.
 
