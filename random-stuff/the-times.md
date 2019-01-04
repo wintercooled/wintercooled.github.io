@@ -6,7 +6,7 @@ permalink: /random-stuff/the-times
 
 # The Times 3rd January 2019
 
-No doubt these could benefit from further adjustments - so originals included for that purpose.
+### No doubt these could benefit from further adjustments - so originals included for that purpose.
 
 ## Cover (original)
 
