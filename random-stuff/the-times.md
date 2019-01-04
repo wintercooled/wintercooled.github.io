@@ -1,3 +1,9 @@
+---
+layout: page
+title: The Times 3rd January 2019
+permalink: /random-stuff/the-times
+---
+
 # The Times 3rd January 2019
 
 ## Cover
