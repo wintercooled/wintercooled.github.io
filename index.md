@@ -3,13 +3,6 @@ layout: home
 title: wintercooled.github.io
 ---
 
-#### In Big Hero 6 they find a teleportation device. To demonstrate its power, someone throws a hat into one portal and it reappears from the other. “WOW!... a magic hat!” someone says. 
-
-#### Thinking Bitcoin was designed primarily to be a cheap payment system is “magic hat” thinking. Bitcoin is a network protocol used by a decentralised group of people. Users who run Bitcoin nodes enforce and protect the monetary policy of the protocol that stores their wealth. What they collectively agree on as being Bitcoin is what defines consensus within the network. Their nodes try and automate the rules they want Bitcoin to adhere to.
-
-#### Today's low Bitcoin fees wont be here forever, neither should they be. The fees you pay allow you to store wealth in the most secure, decentralised form of money there has ever been. Fees are what will fund the network's security as time goes on. Add Lightning Network on top of Bitcoin and you get a magic hat trick thrown in for free! 😉
-
-
 ### The Bitcoin 'Scaling Debate'
 
 This is a good place to start if you don't know much about 'the scaling debate'. John Dilley's arguments are well made, succinct and cover many topics. Don't be put off by who he's debating, it remains civil and constructive.
@@ -25,6 +18,10 @@ Topics John Dilley covers:
 * SPV clients
 * Bitcoin roadmap
 * Block size, trust characteristics and the importance of self validation
+
+This discussion between [Peter Todd](https://twitter.com/peterktodd) (the second half of the interview) and Gavin Andresen is also worth a listen.
+
+[https://www.youtube.com/watch?time_continue=1&v=KYWhShzzELg](https://www.youtube.com/watch?time_continue=1&v=KYWhShzzELg)
 
 ### UASF and SW2X
 
@@ -54,3 +51,10 @@ There was a lot of 'signalling' and various paths to activation for Segwit, alon
 [The Times 3rd January 2019]({{ site.url }}/random-stuff/the-times)
 
 [Example Jekyll Markdown]({{ site.url }}/random-stuff/example-jekyll-markdown)
+
+
+#### In Big Hero 6 they find a teleportation device. To demonstrate its power, someone throws a hat into one portal and it reappears from the other. “WOW!... a magic hat!” someone says. 
+
+#### Thinking Bitcoin was designed primarily to be a cheap payment system is “magic hat” thinking. Bitcoin is a network protocol used by a decentralised group of people. Users who run Bitcoin nodes enforce and protect the monetary policy of the protocol that stores their wealth. What they collectively agree on as being Bitcoin is what defines consensus within the network. Their nodes try and automate the rules they want Bitcoin to adhere to.
+
+#### Today's low Bitcoin fees wont be here forever, neither should they be. The fees you pay allow you to store wealth in the most secure, decentralised form of money there has ever been. Fees are what will fund the network's security as time goes on. Add Lightning Network on top of Bitcoin and you get a magic hat trick thrown in for free! 😉
