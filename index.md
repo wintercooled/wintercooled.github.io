@@ -7,7 +7,7 @@ title: wintercooled.github.io
 
 This is a good place to start if you don't know much about 'the scaling debate'. John Dilley's arguments are well made, succinct and cover many topics. Don't be put off by who he's debating, it remains civil and constructive.
 
-https://www.youtube.com/watch?time_continue=327&v=mauPP0DRtOM
+[https://www.youtube.com/watch?time_continue=327&v=mauPP0DRtOM](https://www.youtube.com/watch?time_continue=327&v=mauPP0DRtOM)
 
 Topics John Dilley covers:
 
@@ -23,7 +23,7 @@ Topics John Dilley covers:
 
 For understanding what "UASF" (User Accepted Soft Fork/BIP 148), "SW2X" (Segwit 2X) and the "NO2X" movement were about, I suggest this video in which [John Carvalho](https://twitter.com/BitcoinErrorLog) passionately lays out the case for UASF and why SW2X was (ultimately) destined to fail.
 
-https://www.youtube.com/watch?time_continue=1528&v=f1c7fvTEvFk
+[https://www.youtube.com/watch?time_continue=1528&v=f1c7fvTEvFk](https://www.youtube.com/watch?time_continue=1528&v=f1c7fvTEvFk)
 
 The [@BitcoinErrorLog](https://twitter.com/BitcoinErrorLog) & [@brian_trollz](https://twitter.com/brian_trollz) interview gives insight into some misguided reasons why some backed SW2X...
 
