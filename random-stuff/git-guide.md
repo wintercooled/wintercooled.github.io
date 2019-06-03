@@ -7,6 +7,8 @@ git checkout master
 
 git fetch origin
 
+git rebase
+
 Create branch off of that code:
 
 git branch my-branch
@@ -28,6 +30,8 @@ Get those changes into master:
 git checkout master
 
 git fetch origin
+
+git rebase
 
 Merge those changes into my-branch:
 
