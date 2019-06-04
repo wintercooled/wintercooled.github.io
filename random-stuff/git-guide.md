@@ -116,3 +116,4 @@ git push
 
 Rebase v Merge: https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333
 
+tl;dr: The one-line summary: don’t rebase a branch unless you are the only one who uses it.
