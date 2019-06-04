@@ -1,5 +1,5 @@
 
-## Branching
+## Branching (untested)
 
 Get latest from origin or upstream (below is based off working on clone, not fork)
 
@@ -42,3 +42,13 @@ git rebase master
 Push that merge to the remote branch:
 
 git push
+
+## Working on someone else's branch
+
+git pull --all
+
+git checkout --track origin/branch-name-here
+
+--track is shorthand for git checkout -b [branch] [remotename]/[branch]
+
+then just edit, add and commit as normal
