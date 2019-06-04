@@ -117,3 +117,9 @@ git push
 Rebase v Merge: https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333
 
 tl;dr: The one-line summary: don’t rebase a branch unless you are the only one who uses it.
+
+Use merge in cases where you want a set of commits to be clearly grouped together in history
+
+Use rebase when you want to keep a linear commit history
+
+DON’T use rebase on a public/shared branch
