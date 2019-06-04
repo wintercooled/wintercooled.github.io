@@ -112,5 +112,7 @@ Now we can push to origin master:
 git push
 (or git push origin master)
 
+# References
 
+Rebase v Merge: https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333
 
