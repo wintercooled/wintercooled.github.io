@@ -85,6 +85,8 @@ git checkout branch-two
 
 git log
 
+(press q to quit log if it is long enough to start paging)
+
 You will see that the 'HEAD ->' of the branch is on top of (origin/master, origin/HEAD) (the last update to the origin copy of master) as it doesn't have the commits under it that were added to branch-one. So you should see commits for branch-two above origin/master, origin/HEAD. We need to rebase master into it so our branch-two commits are on top of the commits from branch-one that we made to master (local).
 
 This means we need to rebase or trying to merge will result in detached HEAD. So we will rebase master into branch-two.
