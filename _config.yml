@@ -23,4 +23,4 @@ description: >- # this means to ignore newlines
 github_link: https://github.com/wintercooled/wintercooled.github.io
 twitter_link: https://twitter.com/wintercooled
 
-include: [".well-known"]
+include: [".well-known", ".nojekyll"]
